@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sdfsdf
+  description: sdfsdfsdf
+  annotations: 
+    github.com/project-slug: blamdemo/testaksjbakdjb
+    backstage.io/github-actions-id: blamdemo/testaksjbakdjb
+spec:
+  type: service
+  lifecycle: experimental
+  owner: guest
